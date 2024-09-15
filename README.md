@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christophalberter
+- 👋 Hi, I’m Christoph
 - 👀 I’m interested in technology and software development
 - 💻 I’m currently learning HTML, Ruby and Javascript
 - 🤝🏻 I’m looking to collaborate on beginner-friendly projects
