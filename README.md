@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christoph
-- 👀 I’m interested in technology and software development
-- 💻 I’m currently learning HTML, Ruby and Javascript
-- 🤝🏻 I’m looking to collaborate on beginner-friendly projects
+- 👀 I’m interested in project management and software development
+- 💻 I’m currently learning Fullstack Web Development
 - 📫 How to reach me https://www.linkedin.com/in/christoph-alberter/
 
 <!---
